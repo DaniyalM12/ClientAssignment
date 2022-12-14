@@ -1,0 +1,37 @@
+[
+  {
+    "sku": "MQI908424/70/79",
+    "type": "order",
+    "qty": 4
+  },
+  {
+    "sku": "KSS894454/75/76",
+    "type": "refund",
+    "qty": 2
+  }
+, {
+    "sku": "KSS894454/75/76",
+    "type": "order",
+    "qty": 20
+  },
+  {
+    "sku": "SMJ806557/56/05",
+    "type": "refund",
+    "qty": 5
+  },
+  {
+    "sku": "SMJ806557/56/05",
+    "type": "order",
+    "qty": 10
+  },
+  {
+    "sku": "RTA872532/57/24",
+    "type": "order",
+    "qty": 17
+  } ,
+  {
+    "sku": "RTA872532/57/24",
+    "type": "refund",
+    "qty": 7
+  }
+]
